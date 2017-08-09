@@ -5,3 +5,4 @@ According to TOP TEN PLACES OF ORIGIN OF INTERNATIONAL STUDENTS released by the 
 
 China is the largest sender of international students to the U.S. The number of international Chinese students attending U.S. universities and colleges has increased dramatically in recent years.
 
+![chart_yolanda geng](https://user-images.githubusercontent.com/29659934/29140554-ddc8abfc-7d18-11e7-964d-085fee09668d.png)
